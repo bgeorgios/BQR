@@ -31,3 +31,5 @@ model {
 		target += LogLikelihood[i];
 	}
 }
+
+// Yu, K. and Moyeed, R.A., 2001. Bayesian quantile regression. Statistics & Probability Letters, 54(4), pp.437-447.
