@@ -24,7 +24,6 @@ model.fit <- rq(Response ~ Predictor,
 cat(paste0("Intercept = ", model.fit[["coefficients"]][1]))
 cat(paste0("Slope = ", model.fit[["coefficients"]][2]))
 
-
 # scatterplot of data with line
 
 plot(
